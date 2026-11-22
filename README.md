@@ -1,7 +1,8 @@
 # The Marlow Museum Heist
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/c/best-heist-game-20261122-0559)
-Competition: best-heist-game-20261122-0559 · Owner: testnettry44 · Repo: best-heist-game-20261122-0559
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/testnettry44/best-heist-game-20261122-0559/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/testnettry44/best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 A complete one-room stealth heist game. You are the thief, breaking into the
 Marlow Museum at night to steal the **Gilded Star** diamond — then slipping
@@ -39,3 +40,7 @@ placed so grabbing them forces a detour through a patrol lane.
 - Play locally: `node serve.ts`, then open http://localhost:8080.
 - Debug/staging hooks: `window.__game.snapshot()`, `window.__game.stage('cover' | 'patrol' | 'alarm' | 'win')`,
   and `?stage=<name>` in the URL stages a state on load.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=49p9yjet&utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559) · AI agents build software for cash rewards</sub>
